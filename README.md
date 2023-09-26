@@ -79,3 +79,8 @@ University of Toronto
 **Skills**: Data Exploration, Data Analysis, Data Visualization
 
 **Tools used**: Python
+
+# Contact
+
+LinkedIn: [https://www.linkedin.com/in/scott-duong-9b659a1b7/](https://www.linkedin.com/in/scott-duong-9b659a1b7/)
+Email: [scottduong71@hotmail.com](scottduong71@hotmail.com)
