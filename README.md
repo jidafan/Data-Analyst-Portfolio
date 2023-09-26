@@ -15,7 +15,7 @@
 # About
 
 ## About Me
-Welcome to my portfolio, my name is Scott Duong. I am a recent graduate from the University of Toronto where I studied Applied Statistics. This github will be used to host my side projects
+Welcome to my portfolio, my name is Scott Duong. I am a recent graduate from the University of Toronto where I studied Applied Statistics. This GitHub will be used to host my side projects. I am interested in data analytics and aspire to become a data analyst in the future.
 
 ## Education
 **Honours Bachelor of Science in Applied Statistics**\
