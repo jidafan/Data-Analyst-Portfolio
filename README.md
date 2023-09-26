@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [About](#about)
+  * [About Me](#about-me)
   * [Education](#education)
 * [Portfolio Project](#portfolio-project)
   * [COVID-19 Analysis and Visualization](#covid-19-analysis-and-visualization)
@@ -12,6 +13,9 @@
 * [Contact](#contact)
 
 # About
+
+## About Me
+Welcome to my portfolio, my name is Scott Duong. I am a recent graduate from the University of Toronto where I studied Applied Statistics. This github will be used to host my side projects
 
 ## Education
 **Honours Bachelor of Science in Applied Statistics**\
