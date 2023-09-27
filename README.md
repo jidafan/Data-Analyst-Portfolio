@@ -87,4 +87,4 @@ University of Toronto
 # Contact
 
 LinkedIn: [https://www.linkedin.com/in/scott-duong/](https://www.linkedin.com/in/scott-duong/)\
-Email: [scottduong71@hotmail.com](scottduong71@hotmail.com)
+Email: [scott.duong@mail.utoronto.ca](scott.duong@mail.utoronto.ca)
