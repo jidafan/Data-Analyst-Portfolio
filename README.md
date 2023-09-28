@@ -28,7 +28,7 @@ University of Toronto
 
 **Description**: The objective of this project is to analyze COVID-19 data sourced from [Our World in Data](https://ourworldindata.org/covid-cases) on a local and global scale by using SQL to explore and examine the data, and Tableau to create a dashboard to visually present our findings.
 
-**Code**: [See full SQL Code](https://github.com/jidafan/COVID-19-Analysis-and-Visualization/blob/main/Covid%20SQL%20Query.sql)
+**Code**: [See full SQL Code](https://github.com/jidafan/COVID-19-Analysis-and-Visualization/blob/main/Covid%20SQL%20Query.sql) [See Dashboard](https://public.tableau.com/app/profile/scott.duong8287/viz/COVID19Dashboard_16955988107200/Dashboard1)
 
 **Data**: [Download First Dataset](https://github.com/jidafan/COVID-19-Analysis-and-Visualization/blob/main/CovidDeaths.xlsb) and [Download Second Dataset](https://github.com/jidafan/COVID-19-Analysis-and-Visualization/blob/main/CovidVaccinations.xlsb)
 
