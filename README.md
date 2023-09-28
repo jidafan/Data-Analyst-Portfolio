@@ -72,19 +72,4 @@ University of Toronto
 
 **Tools used**: Python
 
-## **[Boston Housing Price Web App](https://github.com/jidafan/Boston-Housing-Prices-Web-App)**
 
-**Description**: The objective of this project is to predict the median house value using the data of the 1970s Boston housing market.
-
-**Data**: [Boston Housing Data](http://lib.stat.cmu.edu/datasets/boston)
-
-**Code** [See full Python Code](https://github.com/jidafan/Boston-Housing-Prices-Web-App/blob/main/boston-house-ml-app.py)
-
-**Skills**: Data Exploration, Data Analysis, Data Visualization
-
-**Tools used**: Python
-
-# Contact
-
-LinkedIn: [https://www.linkedin.com/in/scott-duong/](https://www.linkedin.com/in/scott-duong/)\
-Email: [scott.duong@mail.utoronto.ca](scott.duong@mail.utoronto.ca)
