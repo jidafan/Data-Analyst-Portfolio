@@ -72,4 +72,12 @@ University of Toronto
 
 **Tools used**: Python
 
+## Contact
+
+LinkedIn: [https://linkedin.com/in/scott-duong/](https://linkedin.com/in/scott-duong/)
+
+TableauPublic: [https://public.tableau.com/app/profile/scott.duong8287/vizzes](https://public.tableau.com/app/profile/scott.duong8287/vizzes)
+
+Email: [scott.duong@mail.utoronto.ca](scott.duong@mail.utoronto.ca)
+
 
