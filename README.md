@@ -48,6 +48,8 @@ University of Toronto
 
 **Tools used**: Python, Jupyter Lab, Excel
 
+**Python Packages**: requests, beautifulsoup, pandas, and scikit-learn
+
 ## **[Weather Prediction](https://github.com/jidafan/weather-predict)**
 
 **Description**: The objective of this project is to predict the temperature using historical data sourced from [NOAA](https://www.ncdc.noaa.gov/cdo-web/datasets) on data surrounding JFK airport from January 1st, 1970 to August 31st, 2023
@@ -60,6 +62,8 @@ University of Toronto
 
 **Tools used**: Python
 
+**Python Packages**: pandas, matplotlib, and scikit-learn
+
 ## **[Netflix Recommendation](https://github.com/jidafan/netflix-recommendation)**
 
 **Description**: The objective of this project is to recommend Netflix shows and movies based on similarity to other shows.
@@ -71,6 +75,8 @@ University of Toronto
 **Skills**: Data Exploration, Data Cleaning, Data Analysis
 
 **Tools used**: Python
+
+**Python Packages**: pandas and scikit-learn
 
 ## Contact
 
