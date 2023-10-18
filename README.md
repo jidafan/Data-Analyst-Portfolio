@@ -50,19 +50,19 @@ University of Toronto
 
 **Python Packages**: requests, beautifulsoup, pandas, and scikit-learn
 
-## **[Weather Prediction](https://github.com/jidafan/weather-predict)**
+## **[Goodreads Book Recommendation]([https://github.com/jidafan/weather-predict](https://github.com/jidafan/Goodreads-Book-Recommendation/))**
 
-**Description**: The objective of this project is to predict the temperature using historical data sourced from [NOAA](https://www.ncdc.noaa.gov/cdo-web/datasets) on data surrounding JFK airport from January 1st, 1970 to August 31st, 2023
+**Description**: The objective of this project is to recommend books to a user using a csv file of liked books inputted by the user, and comparing them to users that have similar tastes. Using data provided by [UCSD](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 
-**Code** [See full Python Code](https://github.com/jidafan/weather-predict/blob/main/weather.ipynb)
+**Code** [See Search Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/seach.ipynb), [See Recommend Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/recommendations.ipynb), [See Collaborative Filtering Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/collab%20filtering.ipynb)
 
-**Data**: [Download Weather Data](https://github.com/jidafan/weather-predict/tree/main)
+**Data**: [Download GoodReads Data](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 
-**Skills**: Data Exploration, Data Cleaning, Data Analysis
+**Skills**: Data Analysis, Recommendations
 
-**Tools used**: Python
+**Tools used**: Python, Jupyter Lab
 
-**Python Packages**: pandas, matplotlib, and scikit-learn
+**Python Packages**: Pandas, NumPy, SciKit-Learn, Cosine-Similarity.
 
 ## **[Netflix Recommendation](https://github.com/jidafan/netflix-recommendation)**
 
