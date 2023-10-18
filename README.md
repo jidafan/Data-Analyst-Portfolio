@@ -7,7 +7,7 @@
 * [Portfolio Project](#portfolio-project)
   * [COVID-19 Analysis and Visualization](#covid-19-analysis-and-visualization)
   * [NBA MVP Prediction](#nba-mvp-prediction)
-  * [Weather Prediction](#weather-prediction)
+  * [Goodreads Book Recommmendation](#goodreads-book-recommendation)
   * [Netflix recommendation](#netflix-recommendation)
   * [Boston Housing Web App](#boston-housing-web-app)
 * [Contact](#contact)
