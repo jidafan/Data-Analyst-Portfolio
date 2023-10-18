@@ -50,7 +50,7 @@ University of Toronto
 
 **Python Packages**: requests, beautifulsoup, pandas, and scikit-learn
 
-## **[Goodreads Book Recommendation]([https://github.com/jidafan/weather-predict](https://github.com/jidafan/Goodreads-Book-Recommendation/))**
+## **[Goodreads Book Recommendation](https://github.com/jidafan/Goodreads-Book-Recommendation/)**
 
 **Description**: The objective of this project is to recommend books to a user using a csv file of liked books inputted by the user, and comparing them to users that have similar tastes. Using data provided by [UCSD](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 
