@@ -9,13 +9,12 @@
   * [NBA MVP Prediction](#nba-mvp-prediction)
   * [Goodreads Book Recommmendation](#goodreads-book-recommendation)
   * [Netflix recommendation](#netflix-recommendation)
-  * [Boston Housing Web App](#boston-housing-web-app)
 * [Contact](#contact)
 
 # About
 
 ## About Me
-Welcome to my portfolio, my name is Scott Duong. I am a recent graduate from the University of Toronto where I studied Applied Statistics. This GitHub will be used to host my side projects. I am interested in data analytics and aspire to become a data analyst in the future.
+Welcome to my portfolio, my name is Scott Duong. I am a recent graduate from the University of Toronto where I studied Applied Statistics. This GitHub will be used to host my side projects. I am interested in data analytics and aspire to become a data analyst in the future. I have experience in making dashboards using [Tableau](https://public.tableau.com/app/profile/scott.duong8287/vizzes) and PowerBI.
 
 ## Education
 **Honours Bachelor of Science in Applied Statistics**\
@@ -81,8 +80,6 @@ University of Toronto
 ## Contact
 
 LinkedIn: [https://linkedin.com/in/scott-duong/](https://linkedin.com/in/scott-duong/)
-
-TableauPublic: [https://public.tableau.com/app/profile/scott.duong8287/vizzes](https://public.tableau.com/app/profile/scott.duong8287/vizzes)
 
 Email: [scott.duong@mail.utoronto.ca](scott.duong@mail.utoronto.ca)
 
