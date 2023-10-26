@@ -72,6 +72,8 @@ University of Toronto
 
 **Data**: [See Extracted Data](https://github.com/jidafan/SP500-Prediction/blob/main/sp500.csv)
 
+**Skills**: Data Analysis, Insights
+
 **Tools used**: Python, Jupyter Lab
 
 **Python Packages**: Pandas, Scikit-learn and yfinance
