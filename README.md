@@ -8,6 +8,7 @@
   * [COVID-19 Analysis and Visualization](#covid-19-analysis-and-visualization)
   * [NBA MVP Prediction](#nba-mvp-prediction)
   * [Goodreads Book Recommmendation](#goodreads-book-recommendation)
+  * [SP500 Prediction](#sp500-prediction)
   * [Netflix recommendation](#netflix-recommendation)
 * [Contact](#contact)
 
@@ -51,9 +52,9 @@ University of Toronto
 
 ## **[Goodreads Book Recommendation](https://github.com/jidafan/Goodreads-Book-Recommendation/)**
 
-**Description**: The objective of this project is to recommend books to a user using a csv file of liked books inputted by the user, and comparing them to users that have similar tastes. Using data provided by [UCSD](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
+**Description**: The objective of this project is to recommend books to a user using a CSV file of liked books inputted by the user, and comparing them to users that have similar tastes. Using data provided by [UCSD](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home). The program recommended books used TFIDF matrices and cosine-similarity to recommend books.
 
-**Code** [See Search Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/seach.ipynb), [See Recommend Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/recommendations.ipynb), [See Collaborative Filtering Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/collab%20filtering.ipynb)
+**Code**: [See Search Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/seach.ipynb), [See Recommend Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/recommendations.ipynb), [See Collaborative Filtering Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/collab%20filtering.ipynb)
 
 **Data**: [Download GoodReads Data](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 
@@ -61,7 +62,19 @@ University of Toronto
 
 **Tools used**: Python, Jupyter Lab
 
-**Python Packages**: Pandas, NumPy, SciKit-Learn, Cosine-Similarity.
+**Python Packages**: Pandas, NumPy and Scikit-Learn
+
+## **[SP500 Prediction](https://github.com/jidafan/SP500-Prediction)**
+
+**Description**: The objective of this project was to predict whether the SP500 would increase or decrease based on historical data, the data was obtained using the yfinance package.
+
+**Code**: [See full Python Code](https://github.com/jidafan/SP500-Prediction/blob/main/Stock.ipynb)
+
+**Data**: [See Extracted Data](https://github.com/jidafan/SP500-Prediction/blob/main/sp500.csv)
+
+**Tools used**: Python, Jupyter Lab
+
+**Python Packages**: Pandas, Scikit-learn and yfinance
 
 ## **[Netflix Recommendation](https://github.com/jidafan/netflix-recommendation)**
 
