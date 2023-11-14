@@ -54,7 +54,7 @@ University of Toronto
 
 **Description**: The objective of this project is to recommend books to a user using a CSV file of liked books inputted by the user, and comparing them to users that have similar tastes. Using data provided by [UCSD](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home). The program recommended books used TFIDF matrices and cosine-similarity to recommend books.
 
-**Code**: [See Search Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/seach.ipynb), [See Recommend Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/recommendations.ipynb), [See Collaborative Filtering Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/collab%20filtering.ipynb)
+**Code**: [See Search Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/seach.ipynb), [See Recommend Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/recommendations.ipynb), and [See Collaborative Filtering Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/collab%20filtering.ipynb)
 
 **Data**: [Download GoodReads Data](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 
