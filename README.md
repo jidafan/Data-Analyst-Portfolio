@@ -81,11 +81,11 @@ This section will showcase the various projects I have worked on using a variety
 
 ### **[Fifa Data Cleaning](https://github.com/jidafan/FIFA-Data-Cleaning)**
 
-**Description**: The objective of this project is to clean data that was extracted from Fifa 21 to prepare it for analysis. We will be using **Python** to clean the data.
+**Description**: The objective of this project is to clean data that was extracted from Fifa 21 to prepare it for analysis. We will be using **Python** to clean the data and Juputer Lab will be the IDE.
 
 **Skills**: Data Cleaning
 
-**Tools Used**: Python
+**Tools Used**: Python, Juypter Lab
 
 **Code**: [Code](https://github.com/jidafan/FIFA-Data-Cleaning/blob/main/Data%20Cleaning.ipynb)
 
