@@ -4,7 +4,7 @@
 * [About](#about)
   * [About Me](#about-me)
   * [Education](#education)
-* [Portfolio Project](#portfolio-project)
+* [Portfolio Projects](#portfolio-projects)
   * [COVID-19 Analysis and Visualization](#covid-19-analysis-and-visualization)
   * [NBA MVP Prediction](#nba-mvp-prediction)
   * [Goodreads Book Recommmendation](#goodreads-book-recommendation)
@@ -61,7 +61,7 @@ This section will showcase the various projects I have worked on using a variety
 
 **Data**: [Download GoodReads Data](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 
-**Skills**: Data Analysis, Recommendations
+**Skills**: Data Analysis
 
 **Tools used**: Python, Jupyter Lab
 
@@ -69,7 +69,27 @@ This section will showcase the various projects I have worked on using a variety
 
 ### **[Hospitality Dashboard](https://github.com/jidafan/Hospitality-Dashboard)**
 
+**Description**: The objective of this project is to create a dashboard using data from AtliQ Grand Hotels. The dashboard will showcase KPIs that will help the company see the financial states of their hotels and provide key insights. To create the dashboard **PowerBI** will be used and **DaX** will be used to create custom measures.
+
+**Skills**: Data Cleaning, Data Transforming, DaX, and Data Visualization
+
+**Tools used**: PowerBI
+
+**Code**: [Dashboard](https://github.com/jidafan/Hospitality-Dashboard/blob/main/Hospitality%20Dashboard.pbix)
+
+**Data**: [Download Data](https://github.com/jidafan/Hospitality-Dashboard/tree/main/Input%20Files)
+
 ### **[Fifa Data Cleaning](https://github.com/jidafan/FIFA-Data-Cleaning)**
+
+**Description**: The objective of this project is to clean data that was extracted from Fifa 21 to prepare it for analysis. We will be using **Python** to clean the data.
+
+**Skills**: Data Cleaning
+
+**Tools Used**: Python
+
+**Code**: [Code](https://github.com/jidafan/FIFA-Data-Cleaning/blob/main/Data%20Cleaning.ipynb)
+
+**Data**: [Data](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring?select=fifa21_raw_data.csv%E2%80%8B)
 
 ### **[Netflix Recommendation](https://github.com/jidafan/netflix-recommendation)**
 
