@@ -75,7 +75,7 @@ This section will showcase the various projects I have worked on using a variety
 
 **Tools used**: PowerBI
 
-**Code**: [Dashboard](https://github.com/jidafan/Hospitality-Dashboard/blob/main/Hospitality%20Dashboard.pbix)
+**Code**: [See Dashboard](https://github.com/jidafan/Hospitality-Dashboard/blob/main/Hospitality%20Dashboard.pbix)
 
 **Data**: [Download Data](https://github.com/jidafan/Hospitality-Dashboard/tree/main/Input%20Files)
 
@@ -87,9 +87,9 @@ This section will showcase the various projects I have worked on using a variety
 
 **Tools Used**: Python, Juypter Lab
 
-**Code**: [Code](https://github.com/jidafan/FIFA-Data-Cleaning/blob/main/Data%20Cleaning.ipynb)
+**Code**: [See Code](https://github.com/jidafan/FIFA-Data-Cleaning/blob/main/Data%20Cleaning.ipynb)
 
-**Data**: [Data](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring?select=fifa21_raw_data.csv%E2%80%8B)
+**Data**: [Download Data](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring?select=fifa21_raw_data.csv%E2%80%8B)
 
 ### **[Netflix Recommendation](https://github.com/jidafan/netflix-recommendation)**
 
