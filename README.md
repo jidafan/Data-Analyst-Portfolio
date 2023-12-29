@@ -29,8 +29,9 @@ University of Toronto
 
 This section will showcase the various projects I have worked on using a variety of data analytic tools such as Excel, SQL, Tableau, and PowerBI.
 
+## Python Projects
 
-## **[COVID-19 Analysis and Visualization](https://github.com/jidafan/COVID-19-Analysis-and-Visualization)**
+### **[COVID-19 Analysis and Visualization](https://github.com/jidafan/COVID-19-Analysis-and-Visualization)**
 
 **Description**: The objective of this project is to analyze COVID-19 data sourced from [Our World in Data](https://ourworldindata.org/covid-cases) on a local and global scale by using SQL to explore and examine the data, and Tableau to create a dashboard to visually present our findings.
 
@@ -56,7 +57,7 @@ This section will showcase the various projects I have worked on using a variety
 
 **Python Packages**: requests, beautifulsoup, pandas, and scikit-learn
 
-## **[Goodreads Book Recommendation](https://github.com/jidafan/Goodreads-Book-Recommendation/)**
+### **[Goodreads Book Recommendation](https://github.com/jidafan/Goodreads-Book-Recommendation/)**
 
 **Description**: The objective of this project is to recommend books to a user using a CSV file of liked books inputted by the user, and comparing them to users that have similar tastes. Using data provided by [UCSD](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home). The program recommended books used TFIDF matrices and cosine-similarity to recommend books.
 
@@ -70,7 +71,7 @@ This section will showcase the various projects I have worked on using a variety
 
 **Python Packages**: Pandas, NumPy and Scikit-Learn
 
-## **[SP500 Prediction](https://github.com/jidafan/SP500-Prediction)**
+### **[SP500 Prediction](https://github.com/jidafan/SP500-Prediction)**
 
 **Description**: The objective of this project was to predict whether the SP500 would increase or decrease based on historical data, the data was obtained using the yfinance package.
 
@@ -84,7 +85,7 @@ This section will showcase the various projects I have worked on using a variety
 
 **Python Packages**: Pandas, Scikit-learn and yfinance
 
-## **[Netflix Recommendation](https://github.com/jidafan/netflix-recommendation)**
+### **[Netflix Recommendation](https://github.com/jidafan/netflix-recommendation)**
 
 **Description**: The objective of this project is to recommend Netflix shows and movies based on similarity to other shows.
 
