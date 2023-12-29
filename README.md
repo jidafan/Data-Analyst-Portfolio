@@ -5,6 +5,9 @@
   * [About Me](#about-me)
   * [Education](#education)
 * [Portfolio Project](#portfolio-project)
+  * [Python Projects](#python-projects)
+  * [Tableau and Power BI Projects](#tableau-and-power-bi-projects)
+  * [Excel Projects](#excel-projects)
   * [COVID-19 Analysis and Visualization](#covid-19-analysis-and-visualization)
   * [NBA MVP Prediction](#nba-mvp-prediction)
   * [Goodreads Book Recommmendation](#goodreads-book-recommendation)
@@ -22,9 +25,10 @@ Welcome to my portfolio, my name is Scott Duong. I am a recent graduate from the
 2018 - 2023\
 University of Toronto
 
-## Portfolio Projects
+# Portfolio Projects
 
 This section will showcase the various projects I have worked on using a variety of data analytic tools such as Excel, SQL, Tableau, and PowerBI.
+
 
 ## **[COVID-19 Analysis and Visualization](https://github.com/jidafan/COVID-19-Analysis-and-Visualization)**
 
