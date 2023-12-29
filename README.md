@@ -67,19 +67,9 @@ This section will showcase the various projects I have worked on using a variety
 
 **Python Packages**: Pandas, NumPy and Scikit-Learn
 
-### **[SP500 Prediction](https://github.com/jidafan/SP500-Prediction)**
+### **[Hospitality Dashboard](https://github.com/jidafan/Hospitality-Dashboard)**
 
-**Description**: The objective of this project was to predict whether the SP500 would increase or decrease based on historical data, the data was obtained using the yfinance package.
-
-**Code**: [See full Python Code](https://github.com/jidafan/SP500-Prediction/blob/main/Stock.ipynb)
-
-**Data**: [See Extracted Data](https://github.com/jidafan/SP500-Prediction/blob/main/sp500.csv)
-
-**Skills**: Data Analysis, Insights
-
-**Tools used**: Python, Jupyter Lab
-
-**Python Packages**: Pandas, Scikit-learn and yfinance
+### **[Fifa Data Cleaning](https://github.com/jidafan/FIFA-Data-Cleaning)**
 
 ### **[Netflix Recommendation](https://github.com/jidafan/netflix-recommendation)**
 
