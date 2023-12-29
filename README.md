@@ -24,6 +24,8 @@ University of Toronto
 
 ## Portfolio Projects
 
+This section will showcase the various projects I have worked on using a variety of data analytic tools such as Excel, SQL, Tableau, and PowerBI.
+
 ## **[COVID-19 Analysis and Visualization](https://github.com/jidafan/COVID-19-Analysis-and-Visualization)**
 
 **Description**: The objective of this project is to analyze COVID-19 data sourced from [Our World in Data](https://ourworldindata.org/covid-cases) on a local and global scale by using SQL to explore and examine the data, and Tableau to create a dashboard to visually present our findings.
