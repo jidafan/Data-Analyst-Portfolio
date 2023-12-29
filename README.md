@@ -9,13 +9,14 @@
   * [NBA MVP Prediction](#nba-mvp-prediction)
   * [Goodreads Book Recommmendation](#goodreads-book-recommendation)
   * [Hospitality Dashboard](#hospitality-dashboard)
-  * [Netflix recommendation](#netflix-recommendation)
+  * [FIFA Data Cleaning](#fifa-data-cleaning)
+  * [Netflix Recommendation](#netflix-recommendation)
 * [Contact](#contact)
 
 # About
 
 ## About Me
-Welcome to my portfolio, my name is Scott Duong. I am a recent graduate from the University of Toronto where I studied Applied Statistics. This GitHub will be used to host my [side projects](https://github.com/jidafan?tab=repositories). I am interested in data analytics and aspire to become a data analyst in the future. I have experience in making dashboards using [Tableau](https://public.tableau.com/app/profile/scott.duong8287/vizzes) and PowerBI.
+Welcome to my portfolio, my name is Scott Duong. I recently graduated from the University of Toronto where I studied Applied Statistics. This GitHub will host my [side projects](https://github.com/jidafan?tab=repositories). I am interested in data analytics and aspire to become a data analyst in the future. I have experience in making dashboards using [Tableau](https://public.tableau.com/app/profile/scott.duong8287/vizzes) and PowerBI.
 
 ## Education
 **Honours Bachelor of Science in Applied Statistics**\
@@ -26,11 +27,9 @@ University of Toronto
 
 This section will showcase the various projects I have worked on using a variety of data analytic tools such as Excel, SQL, Tableau, and PowerBI.
 
-## Python Projects
-
 ### **[COVID-19 Analysis and Visualization](https://github.com/jidafan/COVID-19-Analysis-and-Visualization)**
 
-**Description**: The objective of this project is to analyze COVID-19 data sourced from [Our World in Data](https://ourworldindata.org/covid-cases) on a local and global scale by using SQL to explore and examine the data, and Tableau to create a dashboard to visually present our findings.
+**Description**: The objective of this project is to analyze COVID-19 data sourced from [Our World in Data](https://ourworldindata.org/covid-cases) on a local and global scale by using **SQL** to explore and examine the data, and **Tableau** to create a dashboard to present our findings visually.
 
 **Code**: [See full SQL Code](https://github.com/jidafan/COVID-19-Analysis-and-Visualization/blob/main/Covid%20SQL%20Query.sql) and [See Dashboard](https://public.tableau.com/app/profile/scott.duong8287/viz/CovidTracking_16999254003760/CovidDashboard#1)
 
@@ -42,7 +41,7 @@ This section will showcase the various projects I have worked on using a variety
 
 ## **[NBA MVP Prediction](https://github.com/jidafan/nba-prediction-mvp)**
 
-**Description**: The objective of this project is to use historical data sourced from [Basketball Reference](https://www.basketball-reference.com/) from the 1990 season to the 2023 season to predict the MVP in each NBA season.
+**Description**: The objective of this project is to use historical data sourced from [Basketball Reference](https://www.basketball-reference.com/) from the 1990 season to the 2023 season to predict the MVP in each NBA season. This project solely uses **Python** and employs **Jupyter Notebook** as the IDE. 
 
 **Code**: [Web Scraping Code](https://github.com/jidafan/nba-prediction-mvp/blob/main/web_scraping.ipynb), [Data Cleaning Code](https://github.com/jidafan/nba-prediction-mvp/blob/main/data_cleaning.ipynb), and [Prediction Code](https://github.com/jidafan/nba-prediction-mvp/blob/main/prediction.ipynb)
 
@@ -56,7 +55,7 @@ This section will showcase the various projects I have worked on using a variety
 
 ### **[Goodreads Book Recommendation](https://github.com/jidafan/Goodreads-Book-Recommendation/)**
 
-**Description**: The objective of this project is to recommend books to a user using a CSV file of liked books inputted by the user, and comparing them to users that have similar tastes. Using data provided by [UCSD](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home). The program recommended books used TFIDF matrices and cosine-similarity to recommend books.
+**Description**: The objective of this project is to recommend books to a user using a CSV file of liked books inputted by the user, and comparing them to users that have similar tastes. Using data provided by [UCSD](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home). The program recommended books used TFIDF matrices and cosine-similarity to recommend books. This project solely uses **Python** and employs **Jupyter Notebook** as the IDE. 
 
 **Code**: [See Search Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/seach.ipynb), [See Recommend Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/recommendations.ipynb), and [See Collaborative Filtering Code](https://github.com/jidafan/Goodreads-Book-Recommendation/blob/main/collab%20filtering.ipynb)
 
