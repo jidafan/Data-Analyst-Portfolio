@@ -8,7 +8,7 @@
   * [COVID-19 Analysis and Visualization](#covid-19-analysis-and-visualization)
   * [NBA MVP Prediction](#nba-mvp-prediction)
   * [Goodreads Book Recommmendation](#goodreads-book-recommendation)
-  * [SP500 Prediction](#sp500-prediction)
+  * [Hospitality Dashboard](#hospitality-dashboard)
   * [Netflix recommendation](#netflix-recommendation)
 * [Contact](#contact)
 
