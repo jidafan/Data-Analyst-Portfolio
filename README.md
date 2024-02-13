@@ -11,6 +11,7 @@
   * [Hospitality Dashboard](#hospitality-dashboard)
   * [FIFA Data Cleaning](#fifa-data-cleaning)
   * [Netflix Recommendation](#netflix-recommendation)
+  * [Wisabi ATM](#wisabi-atm)
 * [Contact](#contact)
 
 # About
@@ -104,6 +105,16 @@ This section will showcase the various projects I have worked on using a variety
 **Tools used**: Python
 
 **Python Packages**: pandas and scikit-learn
+
+### **[Wisabi ATM](https://github.com/jidafan/Wisabi-ATM-PowerBI)**
+
+**Description**: The purpose of this project is to analyze the ATM transaction data for Wisabi Bank to gain insights into customer behaviour and ATM usage.
+
+**Data**: [See Input Files](https://github.com/jidafan/Wisabi-ATM-PowerBI/tree/main/Input%20Files)
+
+**Skills**: Data Visualization, Data Analysis
+
+**Tools used**: Excel, PowerBI
 
 ## Contact
 
